@@ -1,0 +1,22 @@
+img {
+    width: 550px;
+}
+
+body    {
+    text-align:center;
+}
+
+body {
+   background-color: #cccccc;
+  background-position: center;  
+}
+
+h1 {
+    color:yellow;
+}
+img:hover{
+    width:650px;
+}
+button{
+
+}
